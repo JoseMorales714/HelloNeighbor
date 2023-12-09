@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "614795150824",
+    "project_id": "hello-neighbor-a491f",
+    "storage_bucket": "hello-neighbor-a491f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614795150824:android:94865653d2b6a37b52d05d",
+        "android_client_info": {
+          "package_name": "com.example.hellomyneighbor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKCHehZUcyrSm8rtMkqaik5-vJs9hqOfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614795150824:android:46d4ebe579e0438952d05d",
+        "android_client_info": {
+          "package_name": "com.example.helloneighbor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKCHehZUcyrSm8rtMkqaik5-vJs9hqOfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
